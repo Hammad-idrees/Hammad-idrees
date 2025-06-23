@@ -6,13 +6,34 @@
 
 ## 🚀 About Me
 
-I'm a passionate Software Engineering student currently in my 3rd year at FAST Islamabad. I love building intuitive and user-friendly web and mobile applications that solve real-world problems. From crafting clean UI designs to architecting backend systems — I enjoy every step of the development journey!
+I’m a passionate Software Engineering student in my 3rd year at FAST Islamabad, with a strong interest in building intuitive and impactful web and mobile applications. I thrive on creating seamless user experiences through clean UI design, and I enjoy the challenge of developing robust, scalable backend systems. From front-end design to full-stack architecture, I find purpose in using technology to solve real-world problems and continuously grow through hands-on learning.
 
 ---
 
 ## 🔧 Tech Stack
 
-- **Languages:** C++, C, Java, JavaScript, Kotlin, HTML, CSS, SQL, Python, Dart
-- **Frameworks & Tools:** Spring Boot, Node.js, Tailwind CSS, Express.js, Android Studio, React.js
-- **Databases:** MySQL, SQL Server
-- **Others:** Git, GitHub, Linux CLI, Shell Scripting
+Languages: C++, C, Java, JavaScript, Kotlin, Python, Dart, HTML, CSS, SQL, Transact-SQL
+
+Frontend Technologies: React.js, Tailwind CSS, Bootstrap, jQuery, Vanilla.js, HTML5, CSS3
+
+Backend & Frameworks: Node.js, Express.js, Spring Boot
+
+State Management & APIs: Redux, Context API, REST API, React Router
+
+Databases: MongoDB, MySQL, SQL Server
+
+Authentication & Security: JWT Authentication, Role-Based Access Control
+
+Deployment & Hosting: Vercel, Netlify, Render, GitHub Pages
+
+DevOps & Infrastructure: Docker (containerization), GitHub Actions (CI/CD), .env management
+
+Testing & Debugging: Jest, React Testing Library, Postman Tests, Chrome DevTools, Swagger
+
+UI/UX Design: Figma (Wireframing, Prototyping, Auto Layout), User Flow Design, Responsive Design
+
+Mobile Development: Android Studio (Kotlin), Dart (basic Flutter exposure)
+
+AI & Data Science: Clustering, Sentiment Analysis, Decision Trees, Python (Pandas, scikit-learn, NumPy)
+
+Tools & Utilities: Git, GitHub, Postman, Swagger, Linux CLI, Shell Scripting, Trello, Notion
