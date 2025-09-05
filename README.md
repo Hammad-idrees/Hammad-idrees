@@ -1,12 +1,12 @@
 # 👋 Hi, I'm Hammad Idrees
 
-🎓 Software Engineering Student @ FAST NUCES | 💻 Full Stack Developer | 🎨 UI/UX | Project Management | Ai enthusiast
+🎓 Software Engineering Student @ FAST NUCES | 💻 Full Stack Developer | 🎨 UI/UX | Project Management | Ai enthusiast | DevOps
 
 ---
 
 ## 🚀 About Me
 
-I’m a passionate Software Engineering student in my 3rd year at FAST Islamabad, with a strong interest in building intuitive and impactful web and mobile applications. I thrive on creating seamless user experiences through clean UI design, and I enjoy the challenge of developing robust, scalable backend systems. From front-end design to full-stack architecture, I find purpose in using technology to solve real-world problems and continuously grow through hands-on learning.
+I’m a Software Engineering student in my 4th year at FAST Islamabad, with a strong interest in building intuitive and impactful web and mobile applications. I thrive on creating seamless user experiences through clean UI design, and I enjoy the challenge of developing robust, scalable backend systems. From front-end design to full-stack architecture, I find purpose in using technology to solve real-world problems and continuously grow through hands-on learning.
 
 ---
 
@@ -24,7 +24,7 @@ Databases: MongoDB, MySQL, SQL Server
 
 Authentication & Security: JWT Authentication, Role-Based Access Control
 
-Deployment & Hosting: Vercel, Netlify, Render, GitHub Pages
+Deployment & Hosting: Vercel, Netlify, Render, GitHub Pages, Amazon EC2
 
 DevOps & Infrastructure: Docker (containerization), GitHub Actions (CI/CD), .env management
 
