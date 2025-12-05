@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Hammad Idrees
 
-🎓 Software Engineering Student @ FAST NUCES | 💻 Full Stack Developer | 🎨 UI/UX | Project Management | Ai enthusiast | DevOps
+🎓 Software Engineering Student @ FAST NUCES | 💻 Full Stack Developer | 🎨 UI/UX | Machine learning | Ai enthusiast | DevOps
 
 ---
 
