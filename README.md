@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Hammad Idrees
 
-Software Engineering Student at FAST-NUCES | Full Stack Developer | UI/UX Designer | Machine Learning & AI Engineer | DevOps 
+Software Engineering Student at FAST-NUCES | Full Stack Developer | UI/UX Designer | Machine Learning & AI Engineer | DevOps <img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/7ced25f6-ba4b-4dd9-a39b-424b29130fc7" />
+
 
 ## 🚀 About Me
 
