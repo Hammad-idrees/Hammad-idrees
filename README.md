@@ -29,8 +29,7 @@ As I approach the final stage of my undergraduate studies, I am actively seeking
 <a href="https://instagram.com/https://www.instagram.com/im_hammadidrees/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/im_hammadidrees/" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://www.geeksforgeeks.org/profile/techenligj6s1?tab=overview" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://www.geeksforgeeks.org/profile/techenligj6s1?tab=overview" height="30" width="40" /></a>
 </p>
-
-
+</br>
 
 
 # 💻 Tech Stack:
