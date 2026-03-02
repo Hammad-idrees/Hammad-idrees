@@ -22,12 +22,8 @@ I am a final-year Software Engineering student at FAST-NUCES Islamabad, with a s
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hammad-idrees&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=default)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Hammad-idrees&icon=0&color=0)](https://visitcount.itsvg.in)
 
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
-</p>
