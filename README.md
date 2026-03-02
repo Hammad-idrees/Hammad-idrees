@@ -2,7 +2,7 @@
 
 <table>
 <tr>
-<td width="55%">
+<td width="65%">
 
 **Software Engineering Student at FAST-NUCES | Full Stack Developer | Machine Learning & AI Engineer | DevOps**
 
@@ -15,12 +15,13 @@ I have developed a keen ability to design clean, user-centric interfaces while s
 As I approach the final stage of my undergraduate studies, I am actively seeking opportunities to apply my skills in a professional environment, contribute to meaningful projects, and continue growing as a well-rounded software engineer with expertise in both intelligent systems and modern application development.
 
 </td>
-<td width="45%">
+<td width="30%">
 <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="500"/>
 </td>
 </tr>
 </table>
 ---
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/im_hammadidrees/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/muhammad-hammad-idrees-a48aa229b) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@techenlighten454) 
 
