@@ -2,7 +2,7 @@
 
 <table>
 <tr>
-<td width="65%">
+<td width="60%">
 
 **Software Engineering Student at FAST-NUCES | Full Stack Developer | Machine Learning & AI Engineer | DevOps**
 
@@ -15,7 +15,7 @@ I have developed a keen ability to design clean, user-centric interfaces while s
 As I approach the final stage of my undergraduate studies, I am actively seeking opportunities to apply my skills in a professional environment, contribute to meaningful projects, and continue growing as a well-rounded software engineer with expertise in both intelligent systems and modern application development.
 
 </td>
-<td width="35%" align="center">
+<td width="40%" align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="280"/>
 </td>
 </tr>
