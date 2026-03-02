@@ -1,15 +1,25 @@
 # 👋 Hi, I'm Hammad Idrees
-- Coding Vibe
-<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="500">
-<br><br>
-Software Engineering Student at FAST-NUCES | Full Stack Developer | Machine Learning & AI Engineer | DevOps 
 
+<table>
+<tr>
+<td width="55%">
 
+**Software Engineering Student at FAST-NUCES | Full Stack Developer | Machine Learning & AI Engineer | DevOps**
 
-# 💫 About Me:
+## 💫 About Me
 
-I am a final-year Software Engineering student at FAST-NUCES Islamabad, with a strong academic foundation and hands-on experience in full-stack web and mobile application development, machine learning, and system design. My technical interests span across front-end development, back-end engineering, and the application of machine learning techniques to build intelligent, data-driven solutions.<br>I have developed a keen ability to design clean, user-centric interfaces while simultaneously building scalable and maintainable server-side architectures. In addition to my software engineering expertise, I have cultivated practical knowledge in machine learning, including data preprocessing, model training and evaluation, and the integration of ML models into real-world applications.As I approach the final stage of my undergraduate studies, I am actively seeking opportunities to apply my skills in a professional environment, contribute to meaningful projects, and continue growing as a well-rounded software engineer with expertise in both intelligent systems and modern application development.<br>
+I am a final-year Software Engineering student at FAST-NUCES Islamabad, with a strong academic foundation and hands-on experience in full-stack web and mobile application development, machine learning, and system design. My technical interests span across front-end development, back-end engineering, and the application of machine learning techniques to build intelligent, data-driven solutions.
 
+I have developed a keen ability to design clean, user-centric interfaces while simultaneously building scalable and maintainable server-side architectures. In addition to my software engineering expertise, I have cultivated practical knowledge in machine learning, including data preprocessing, model training and evaluation, and the integration of ML models into real-world applications.
+
+As I approach the final stage of my undergraduate studies, I am actively seeking opportunities to apply my skills in a professional environment, contribute to meaningful projects, and continue growing as a well-rounded software engineer with expertise in both intelligent systems and modern application development.
+
+</td>
+<td width="45%">
+<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="500"/>
+</td>
+</tr>
+</table>
 ---
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/im_hammadidrees/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/muhammad-hammad-idrees-a48aa229b) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@techenlighten454) 
