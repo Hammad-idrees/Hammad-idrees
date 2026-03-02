@@ -22,8 +22,14 @@ As I approach the final stage of my undergraduate studies, I am actively seeking
 </table>
 ---
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/im_hammadidrees/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/www.linkedin.com/in/muhammad-hammad-idrees-a48aa229b](https://www.linkedin.com/in/muhammad-hammad-idrees-a48aa229b/)) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@techenlighten454) 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/muhammad-hammad-idrees-a48aa229b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/muhammad-hammad-idrees-a48aa229b/" height="30" width="40" /></a>
+<a href="https://kaggle.com/https://www.kaggle.com/hammadidrees" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/hammadidrees" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/im_hammadidrees/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/im_hammadidrees/" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://www.geeksforgeeks.org/profile/techenligj6s1?tab=overview" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://www.geeksforgeeks.org/profile/techenligj6s1?tab=overview" height="30" width="40" /></a>
+</p>
+
 
 
 
