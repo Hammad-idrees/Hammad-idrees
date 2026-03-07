@@ -10,7 +10,7 @@
 
 I am a final-year Software Engineering student at FAST-NUCES Islamabad, with a strong academic foundation and hands-on experience in full-stack web and mobile application development, machine learning, and system design. My technical interests span across front-end development, back-end engineering, and the application of machine learning techniques to build intelligent, data-driven solutions.
 
-I have developed a keen ability to design clean, user-centric interfaces while simultaneously building scalable and maintainable server-side architectures. In addition to my software engineering expertise, I have cultivated practical knowledge in machine learning, including data preprocessing, model training and evaluation, and the integration of ML models into real-world applications.
+I enjoy building clean and user-friendly interfaces while also developing scalable and maintainable backend systems. Alongside my software engineering work, I have also gained practical experience in machine learning, including data preprocessing, training models, evaluating their performance, and integrating them into applications.
 
 As I approach the final stage of my undergraduate studies, I am actively seeking opportunities to apply my skills in a professional environment, contribute to meaningful projects, and continue growing as a well-rounded software engineer with expertise in both intelligent systems and modern application development.
 
