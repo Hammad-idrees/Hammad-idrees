@@ -12,7 +12,7 @@ I am a final-year Software Engineering student at FAST-NUCES Islamabad, with a s
 
 I enjoy building clean and user-friendly interfaces while also developing scalable and maintainable backend systems. Alongside my software engineering work, I have also gained practical experience in machine learning, including data preprocessing, training models, evaluating their performance, and integrating them into applications.
 
-As I approach the final stage of my undergraduate studies, I am actively seeking opportunities to apply my skills in a professional environment, contribute to meaningful projects, and continue growing as a well-rounded software engineer with expertise in both intelligent systems and modern application development.
+As I approach the final stage of my undergraduate studies, I am actively seeking opportunities to apply my skills in a professional environment, contribute to meaningful projects, and continue growing as a well-rounded software engineer with expertise in both intelligent systems and modern application development...
 
 </td>
 <td width="40%" align="center">
