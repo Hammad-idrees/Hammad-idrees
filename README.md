@@ -1,46 +1,49 @@
-[<div align="center">
+<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Hammad%20Idrees&fontSize=60&fontColor=e94560&fontAlign=50&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20ML%20Engineer%20%7C%20DevOps&descSize=18&descColor=a8b2d8&descAlign=50&descAlignY=62&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Hammad%20Idrees&fontSize=65&fontColor=00d4ff&fontAlign=50&fontAlignY=38&desc=Full%20Stack%20Developer%20%E2%80%A2%20ML%20Engineer%20%E2%80%A2%20DevOps&descSize=20&descColor=ffffff&descAlign=50&descAlignY=60&animation=fadeIn&stroke=00d4ff&strokeWidth=2" />
 
-</div>](https://capsule-render.vercel.app/api?type=waving&color=0:000428,100:004e92&height=220&section=header&text=Hammad%20Idrees&fontSize=65&fontColor=ffffff&fontAlign=50&fontAlignY=38&desc=Full%20Stack%20Developer%20%E2%80%A2%20ML%20Engineer%20%E2%80%A2%20DevOps&descSize=20&descColor=90caf9&descAlign=50&descAlignY=60&animation=fadeIn&stroke=ffffff&strokeWidth=1)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Final-year+SE+Student+%40+FAST-NUCES;Full+Stack+Web+%26+Mobile+Developer;Machine+Learning+%26+AI+Engineer;DevOps+%7C+Cloud+%7C+System+Design)](https://git.io/typing-svg)
+
+</div>
 
 ---
 
 <table>
 <tr>
-<td valign="top" width="58%">
+<td valign="top" width="55%">
 
 ## 👨‍💻 About Me
 
 Final-year **Software Engineering** student at **FAST-NUCES Islamabad**, passionate about building intelligent, scalable, and user-centric solutions.
 
-- 🔭 Working on **full-stack web & mobile applications**
-- 🤖 Exploring **ML/AI** — from model training to production deployment
+- 🔭 Building **full-stack web & mobile applications**
+- 🤖 Exploring **ML/AI** — from model training to production
 - ⚙️ Hands-on with **DevOps** pipelines and cloud infrastructure
-- 🌱 Actively seeking opportunities to contribute to **impactful projects**
-- ⚡ Fun fact: I believe JavaScript is the duct tape of the internet 🩹
+- 🌱 Actively seeking opportunities to work on **impactful projects**
+- 💬 Ask me about **React, Python, Node.js, or ML pipelines**
+- ⚡ JavaScript is the duct tape of the internet 🩹
 
 <br/>
 
 ## 🌐 Connect With Me
 
-<a href="https://www.linkedin.com/in/muhammad-hammad-idrees-a48aa229b/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+<a href="https://www.linkedin.com/in/muhammad-hammad-idrees-a48aa229b/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="https://www.kaggle.com/hammadidrees">
-  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" />
+<a href="https://www.kaggle.com/hammadidrees" target="_blank">
+  <img src="https://img.shields.io/badge/Kaggle-%2320BEFF.svg?style=for-the-badge&logo=Kaggle&logoColor=white"/>
 </a>
-<a href="https://www.instagram.com/im_hammadidrees/">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+<a href="https://www.instagram.com/im_hammadidrees/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
 </a>
-<a href="https://www.geeksforgeeks.org/profile/techenligj6s1">
-  <img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+<a href="https://www.geeksforgeeks.org/profile/techenligj6s1" target="_blank">
+  <img src="https://img.shields.io/badge/GeeksforGeeks-%23298D46.svg?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
 </a>
 
 </td>
-<td valign="top" width="42%" align="center">
+<td valign="top" width="45%" align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="320" style="border-radius: 12px;" />
+<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="310"/>
 
 </td>
 </tr>
@@ -51,94 +54,92 @@ Final-year **Software Engineering** student at **FAST-NUCES Islamabad**, passion
 ## 🛠️ Tech Stack
 
 ### 💬 Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,js,ts,cpp,cs,java,kotlin,dart,html,css&perline=10" />
+</p>
 
-### 🌐 Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495e?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-593d88?style=for-the-badge&logo=redux&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-8511FA?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+### 🌐 Frontend & Mobile
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,flutter,tailwind,redux,bootstrap,vite,threejs,figma&perline=10" />
+</p>
 
-### ⚙️ Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404d59?style=for-the-badge&logo=express&logoColor=61DAFB)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+### ⚙️ Backend & APIs
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask,graphql,nginx,apache&perline=10" />
+</p>
 
 ### 🗄️ Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DD0031?style=for-the-badge&logo=redis&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase)
-![SQLite](https://img.shields.io/badge/SQLite-07405e?style=for-the-badge&logo=sqlite&logoColor=white)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis,firebase,sqlite,supabase&perline=10" />
+</p>
 
 ### ☁️ Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2671E5?style=for-the-badge&logo=githubactions&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-2C5263?style=for-the-badge&logo=jenkins&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-000000?style=for-the-badge&logo=netlify&logoColor=00C7B7)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,githubactions,jenkins,cloudflare,vercel,netlify,git,github&perline=10" />
+</p>
 
 ### 🤖 Machine Learning & AI
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-white?style=for-the-badge&logo=opencv&logoColor=5C3EE8)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn,anaconda&perline=10" />
+</p>
 
-### 🧰 Tools & Others
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0A0FFF?style=for-the-badge&logo=jira&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![Cypress](https://img.shields.io/badge/Cypress-E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
-![Swagger](https://img.shields.io/badge/Swagger-Clojure?style=for-the-badge&logo=swagger&logoColor=white)
-![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white)
+### 🧰 Dev Tools & Testing
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postman,selenium,jest,vscode,linux,bash&perline=10" />
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Hammad-idrees&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" height="180" />
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hammad-idrees&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="180" />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://github-readme-stats-fast.vercel.app/api?username=Hammad-idrees&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://github-readme-stats-fast.vercel.app/api?username=Hammad-idrees&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Hammad-idrees&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180"/>
+</picture>
+&nbsp;
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Hammad-idrees&theme=tokyonight&hide_border=true&layout=compact&count_private=true" />
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Hammad-idrees&theme=default&hide_border=true&layout=compact&count_private=true" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Hammad-idrees&theme=tokyonight&hide_border=true&layout=compact&count_private=true" height="180"/>
+</picture>
+
 <br/><br/>
-<img src="https://nirzak-streak-stats.vercel.app/?user=Hammad-idrees&theme=tokyonight&hide_border=true" height="165" />
+
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=Hammad-idrees&theme=tokyonight&hide_border=true" height="165"/>
+
+<br/><br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hammad-idrees&theme=tokyonight" width="100%"/>
+
 </div>
 
 ---
 
-## 🐍 Contribution Graph
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Hammad-idrees&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" width="100%"/>
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
 
 <div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
 </picture>
 
 </div>
@@ -149,10 +150,14 @@ Final-year **Software Engineering** student at **FAST-NUCES Islamabad**, passion
 
 ### ❤️ JavaScript — the duct tape of the internet
 
-<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="100%" style="max-width:900px;" />
+<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="900"/>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:1a1a2e&height=120&section=footer&reversal=true" />
+![Profile Views](https://komarev.com/ghpvc/?username=Hammad-idrees&color=00d4ff&style=for-the-badge&label=PROFILE+VIEWS)
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=130&section=footer" />
 
 </div>
