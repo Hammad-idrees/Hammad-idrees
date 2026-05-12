@@ -1,8 +1,8 @@
-<div align="center">
+[<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Hammad%20Idrees&fontSize=60&fontColor=e94560&fontAlign=50&fontAlignY=40&desc=Full%20Stack%20Developer%20%7C%20ML%20Engineer%20%7C%20DevOps&descSize=18&descColor=a8b2d8&descAlign=50&descAlignY=62&animation=fadeIn" />
 
-</div>
+</div>](https://capsule-render.vercel.app/api?type=waving&color=0:000428,100:004e92&height=220&section=header&text=Hammad%20Idrees&fontSize=65&fontColor=ffffff&fontAlign=50&fontAlignY=38&desc=Full%20Stack%20Developer%20%E2%80%A2%20ML%20Engineer%20%E2%80%A2%20DevOps&descSize=20&descColor=90caf9&descAlign=50&descAlignY=60&animation=fadeIn&stroke=ffffff&strokeWidth=1)
 
 ---
 
@@ -122,15 +122,11 @@ Final-year **Software Engineering** student at **FAST-NUCES Islamabad**, passion
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Hammad-idrees&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&bg_color=0d1117&title_color=e94560&icon_color=a8b2d8&text_color=c9d1d9" height="180" />
+<img src="https://github-readme-stats.vercel.app/api?username=Hammad-idrees&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" height="180" />
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hammad-idrees&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0d1117&title_color=e94560&text_color=c9d1d9" height="180" />
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hammad-idrees&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="180" />
 <br/><br/>
-
-<img src="https://nirzak-streak-stats.vercel.app/?user=Hammad-idrees&theme=tokyonight&hide_border=true&background=0d1117&ring=e94560&fire=e94560&currStreakLabel=a8b2d8" height="165" />
-
+<img src="https://nirzak-streak-stats.vercel.app/?user=Hammad-idrees&theme=tokyonight&hide_border=true" height="165" />
 </div>
 
 ---
