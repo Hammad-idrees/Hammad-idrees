@@ -13,7 +13,7 @@
 
 ## 👨‍💻 About Me
 
-Final-year **Software Engineering** student at **FAST-NUCES Islamabad**, passionate about building intelligent, scalable, and user-centric solutions.
+**Software Engineer** experienced with full-stack development, AI integration, and backend engineering.
 
 - 🏗️ Engineer and deliver scalable **full-stack web & mobile applications** from architecture to production deployment  
 - 🧠 Develop and deploy robust **Machine Learning & AI systems**, including data pipelines, model optimization, and production integration  
