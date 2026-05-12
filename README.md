@@ -2,8 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Hammad%20Idrees&fontSize=65&fontColor=00d4ff&fontAlign=50&fontAlignY=38&desc=Full%20Stack%20Developer%20%E2%80%A2%20ML%20Engineer%20%E2%80%A2%20DevOps&descSize=20&descColor=ffffff&descAlign=50&descAlignY=60&animation=fadeIn&stroke=00d4ff&strokeWidth=2" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Final-year+SE+Student+%40+FAST-NUCES;Full+Stack+Web+%26+Mobile+Developer;Machine+Learning+%26+AI+Engineer;DevOps+%7C+Cloud+%7C+System+Design)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&lines=Software+Engineer+%40+FAST-NUCES+Islamabad;Building+AI-Powered+Web+%26+Mobile+Applications;Machine+Learning+%26+Backend+Systems+Engineer;DevOps+%7C+Cloud+Architecture+%7C+System+Design)](https://git.io/typing-svg)
 </div>
 
 ---
