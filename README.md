@@ -15,13 +15,11 @@
 
 Final-year **Software Engineering** student at **FAST-NUCES Islamabad**, passionate about building intelligent, scalable, and user-centric solutions.
 
-- 🔭 Building **full-stack web & mobile applications**
-- 🤖 Exploring **ML/AI** — from model training to production
-- ⚙️ Hands-on with **DevOps** pipelines and cloud infrastructure
-- 🌱 Actively seeking opportunities to work on **impactful projects**
-- 💬 Ask me about **React, Python, Node.js, or ML pipelines**
-- ⚡ JavaScript is the duct tape of the internet 🩹
-
+- 🏗️ Engineer and deliver scalable **full-stack web & mobile applications** from architecture to production deployment  
+- 🧠 Develop and deploy robust **Machine Learning & AI systems**, including data pipelines, model optimization, and production integration  
+- ⚙️ Design **high-performance distributed systems** focused on scalability, reliability, and clean software architecture  
+- 🔧 Work across the entire engineering stack — **frontend, backend, cloud infrastructure, and DevOps workflows**  
+- 🧩 Passionate about solving **complex engineering challenges** in system design, optimization, and large-scale application development  
 <br/>
 
 ## 🌐 Connect With Me
