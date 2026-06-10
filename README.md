@@ -19,7 +19,7 @@
 - 🧠 Work on Machine Learning and Generative AI models such as GANs and Transformers, focusing on data preprocessing, training, and model optimization.  
 - ⚙️ Design **high-performance distributed systems** focused on scalability, reliability, and clean software architecture  
 - 🔧 Work across the entire engineering stack — **frontend, backend, cloud infrastructure, and DevOps workflows**  
-- 🧩 Passionate about solving **complex engineering challenges** in system design, optimization, and large-scale application development  
+- 🧩 Focused about solving **complex engineering challenges** in system design, optimization, and large-scale application development  
 <br/>
 
 ## 🌐 Connect With Me
