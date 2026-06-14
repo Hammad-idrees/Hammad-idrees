@@ -128,11 +128,12 @@
 
 ---
 
-## 🏆 Achievements & Skills
+## 📈 Contribution Graph
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,python,tensorflow,docker,kubernetes,aws,mongodb,postgres,redis,git,linux&perline=6" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Hammad-idrees&theme=tokyo-night&hide_border=true&area=true&area_color=0077b6" />
 </div>
 
+---
 ---
 
 ## 🐍 Contribution Snake
