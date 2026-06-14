@@ -26,11 +26,11 @@
 
 **Software Engineer** experienced with full-stack development, AI integration, and backend engineering.
 
-- ![](https://img.shields.io/badge/-Deploy-0077b6?style=flat-square) Engineer and deliver scalable **full-stack web & mobile applications** from architecture to production deployment
-- ![](https://img.shields.io/badge/-AI%2FML-00b4d8?style=flat-square) Work on Machine Learning and Generative AI models such as GANs and Transformers, focusing on data preprocessing, training, and model optimization
-- ![](https://img.shields.io/badge/-Systems-3b82f6?style=flat-square) Design **high-performance distributed systems** focused on scalability, reliability, and clean software architecture
-- ![](https://img.shields.io/badge/-Stack-10b981?style=flat-square) Work across the entire engineering stack — **frontend, backend, cloud infrastructure, and DevOps workflows**
-- ![](https://img.shields.io/badge/-Scale-8b5cf6?style=flat-square) Focused about solving **complex engineering challenges** in system design, optimization, and large-scale application development
+- `▶` Engineer and deliver scalable **full-stack web & mobile applications** from architecture to production deployment
+- `▶` Work on Machine Learning and Generative AI models such as GANs and Transformers, focusing on data preprocessing, training, and model optimization
+- `▶` Design **high-performance distributed systems** focused on scalability, reliability, and clean software architecture
+- `▶` Work across the entire engineering stack — **frontend, backend, cloud infrastructure, and DevOps workflows**
+- `▶` Focused about solving **complex engineering challenges** in system design, optimization, and large-scale application development
 
 ## 🌐 Connect With Me
 
