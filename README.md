@@ -5,14 +5,14 @@
 
 <br/>
 
-![Full Stack](https://img.shields.io/badge/Full%20Stack%20Dev-0077b6?style=for-the-badge&logo=stackshare&logoColor=90e0ef)
-![AI ML](https://img.shields.io/badge/AI%20%2F%20ML-001a3d?style=for-the-badge&logo=openai&logoColor=00D4FF)
-![AI Automations](https://img.shields.io/badge/AI%20Automations-003d7a?style=for-the-badge&logo=zapier&logoColor=caf0f8)
-![n8n](https://img.shields.io/badge/n8n%20%7C%20Agents-0077b6?style=for-the-badge&logo=n8n&logoColor=white)
-![DevOps](https://img.shields.io/badge/DevOps-001a3d?style=for-the-badge&logo=githubactions&logoColor=00D4FF)
-![Cloud](https://img.shields.io/badge/Cloud%20%7C%20Docker-003d7a?style=for-the-badge&logo=docker&logoColor=caf0f8)
-![Backend](https://img.shields.io/badge/Backend%20Systems-0077b6?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![System Design](https://img.shields.io/badge/System%20Design-001a3d?style=for-the-badge&logo=blueprint&logoColor=90e0ef)
+![Full Stack](https://img.shields.io/badge/Full%20Stack%20Dev-0077b6?style=for-the-badge&logo=stackshare&logoColor=white)
+![AI ML](https://img.shields.io/badge/AI%20%2F%20ML-00b4d8?style=for-the-badge&logo=openai&logoColor=white)
+![AI Automations](https://img.shields.io/badge/AI%20Automations-EA4B71?style=for-the-badge&logo=zapier&logoColor=white)
+![Agents n8n](https://img.shields.io/badge/Agents%20%26%20n8n-f4845f?style=for-the-badge&logo=n8n&logoColor=white)
+![DevOps](https://img.shields.io/badge/DevOps-3b82f6?style=for-the-badge&logo=githubactions&logoColor=white)
+![Cloud Docker](https://img.shields.io/badge/Cloud%20%26%20Docker-0ea5e9?style=for-the-badge&logo=docker&logoColor=white)
+![Backend](https://img.shields.io/badge/Backend%20Systems-10b981?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![System Design](https://img.shields.io/badge/System%20Design-8b5cf6?style=for-the-badge&logo=blueprint&logoColor=white)
 
 </div>
 
@@ -94,10 +94,6 @@
 ### 🧰 Dev Tools & Testing
 <p align="left">
   <img src="https://skillicons.dev/icons?i=postman,selenium,jest,vscode,linux,bash&perline=10" />
-</p>
-<p align="left">
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
-  <img src="https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white" />
 </p>
 ---
 
