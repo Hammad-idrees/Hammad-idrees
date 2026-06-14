@@ -1,8 +1,19 @@
 <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,35:001a3d,65:003d7a,100:0077b6&height=220&section=header&text=Hammad%20Idrees&fontSize=65&fontColor=90e0ef&fontAlign=50&fontAlignY=38&desc=Full%20Stack%20Developer%20%E2%80%A2%20AI%2FML%20%E2%80%A2%20AI%20Automations%20%E2%80%A2%20DevOps&descSize=19&descColor=caf0f8&descAlign=50&descAlignY=60&animation=fadeIn&stroke=90e0ef&strokeWidth=2" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,35:001a3d,65:003d7a,100:0077b6&height=220&section=header&text=Hammad%20Idrees&fontSize=65&fontColor=90e0ef&fontAlign=50&fontAlignY=38&desc=Full%20Stack%20Developer%20%E2%80%A2%20AI/ML%20%20%E2%80%A2%20DevOps&descSize=20&descColor=caf0f8&descAlign=50&descAlignY=60&animation=fadeIn&stroke=90e0ef&strokeWidth=2" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=900&lines=Software+Engineer+%40+FAST-NUCES+Islamabad;Building+AI-Powered+Web+%26+Mobile+Applications;Machine+Learning+%26+Backend+Systems+Engineer;AI+Automations+%7C+n8n+%7C+LLM+Agents+%7C+Workflows;DevOps+%7C+Cloud+Architecture+%7C+System+Design)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&lines=Software+Engineer+%40+FAST-NUCES+Islamabad;Building+AI-Powered+Web+%26+Mobile+Applications;Machine+Learning+%26+Backend+Systems+Engineer;DevOps+%7C+Cloud+Architecture+%7C+System+Design)](https://git.io/typing-svg)
+<br/>
+
+![Full Stack](https://img.shields.io/badge/Full%20Stack%20Dev-0077b6?style=for-the-badge&logo=stackshare&logoColor=90e0ef)
+![AI ML](https://img.shields.io/badge/AI%20%2F%20ML-001a3d?style=for-the-badge&logo=openai&logoColor=00D4FF)
+![AI Automations](https://img.shields.io/badge/AI%20Automations-003d7a?style=for-the-badge&logo=zapier&logoColor=caf0f8)
+![n8n](https://img.shields.io/badge/n8n%20%7C%20Agents-0077b6?style=for-the-badge&logo=n8n&logoColor=white)
+![DevOps](https://img.shields.io/badge/DevOps-001a3d?style=for-the-badge&logo=githubactions&logoColor=00D4FF)
+![Cloud](https://img.shields.io/badge/Cloud%20%7C%20Docker-003d7a?style=for-the-badge&logo=docker&logoColor=caf0f8)
+![Backend](https://img.shields.io/badge/Backend%20Systems-0077b6?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![System Design](https://img.shields.io/badge/System%20Design-001a3d?style=for-the-badge&logo=blueprint&logoColor=90e0ef)
+
 </div>
 
 ---
