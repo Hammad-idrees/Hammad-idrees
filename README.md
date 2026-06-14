@@ -130,7 +130,7 @@
 
 ## 🏆 GitHub Trophies
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Hammad-idrees&theme=onestar&no-frame=true&no-bg=true&margin-w=8&column=6" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Hammad-idrees&theme=radical&no-frame=true&no-bg=false&margin-w=4&column=6&title=Stars,Commits,Repositories,Issues,Followers,PullRequest" alt="GitHub Trophies"/>
 </div>
 
 ---
