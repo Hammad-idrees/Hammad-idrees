@@ -128,9 +128,9 @@
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Achievements & Skills
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Hammad-idrees&theme=radical&no-frame=true&no-bg=false&margin-w=4&column=6&title=Stars,Commits,Repositories,Issues,Followers,PullRequest" alt="GitHub Trophies"/>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,python,tensorflow,docker,kubernetes,aws,mongodb,postgres,redis,git,linux&perline=6" />
 </div>
 
 ---
