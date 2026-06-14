@@ -93,7 +93,7 @@
 
 ### 🧰 Dev Tools & Testing
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=postman,selenium,jest,vscode,linux,bash&perline=10" />
+  <img src="https://skillicons.dev/icons?i=postman,selenium,jest,vscode, n8n,linux,bash&perline=10" />
 </p>
 
 ---
