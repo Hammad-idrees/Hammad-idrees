@@ -93,9 +93,12 @@
 
 ### 🧰 Dev Tools & Testing
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=postman,selenium,jest,vscode, n8n,linux,bash&perline=10" />
+  <img src="https://skillicons.dev/icons?i=postman,selenium,jest,vscode,linux,bash&perline=10" />
 </p>
-
+<p align="left">
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
+  <img src="https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white" />
+</p>
 ---
 
 ## 📊 GitHub Stats
