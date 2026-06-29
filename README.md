@@ -149,14 +149,22 @@
 </div>
 
 ---
-
 <div align="center">
 
-<div align="center">
 ### ❤️ JavaScript — the duct tape of the internet
+
 <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="900"/>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:24243e,50:302b63,100:0f0c29&height=2&width=900" />
+
 <br/>
-![Profile Views](https://komarev.com/ghpvc/?username=Hammad-idrees&color=00d4ff&style=for-the-badge&label=PROFILE+VIEWS)
-<br/>
+
+<img src="https://komarev.com/ghpvc/?username=Hammad-idrees&style=for-the-badge&color=24243e,302b63,0f0c29&labelColor=0f0c29&label=%E2%9C%A8+PROFILE+VIEWS" alt="Profile Views"/>
+
+<br/><br/>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=130&section=footer" />
+
 </div>
