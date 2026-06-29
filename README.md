@@ -151,13 +151,13 @@
 ---
 <div align="center">
 
-<h3>❤️ JavaScript — the duct tape of the internet</h3>
+<h1 style="font-size: 45px;">❤️ JavaScript — the duct tape of the internet</h1>
 
 <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="900"/>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=Hammad-idrees&color=00d4ff&style=for-the-badge&label=PROFILE+VIEWS" />
+<img src="https://komarev.com/ghgpvc/?username=Hammad-idrees&color=00d4ff&style=for-the-badge&label=PROFILE+VIEWS" />
 
 <br/><br/>
 
