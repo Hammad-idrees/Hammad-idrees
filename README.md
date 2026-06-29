@@ -158,7 +158,7 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Hammad-idrees&color=00d4ff&style=for-the-badge&label=PROFILE+VIEWS)
+<img src="https://komarev.com/ghpvc/?username=Hammad-idrees&style=for-the-badge&color=302b63&labelColor=0d1117&label=%E2%9C%A8+PROFILE+VIEWS" alt="Profile Views"/>
 
 <br/>
 
