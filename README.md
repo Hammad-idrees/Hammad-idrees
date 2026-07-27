@@ -65,7 +65,7 @@
   <img src="https://skillicons.dev/icons?i=python,js,ts,cpp,cs,java,kotlin,dart,html,css&perline=10" />
 </p>
 
-### 🌐 Frontend & Mobile
+### 🌐 Frontend $ Mobile
 <p align="left">
   <img src="https://skillicons.dev/icons?i=react,nextjs,vue,flutter,tailwind,redux,bootstrap,vite,threejs,figma&perline=10" />
 </p>
