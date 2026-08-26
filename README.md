@@ -26,11 +26,12 @@
 
 **Software Engineer** experienced with full-stack development, AI integration, and backend engineering.
 
-- `▶` Engineer and deliver scalable **full-stack web & mobile applications** from architecture to production deployment
-- `▶` Work on Machine Learning and Generative AI models such as GANs and Transformers, focusing on data preprocessing, training, and model optimization
-- `▶` Design **high-performance distributed systems** focused on scalability, reliability, and clean software architecture
-- `▶` Work across the entire engineering stack — **frontend, backend, cloud infrastructure, and DevOps workflows**
-- `▶` Focused about solving **complex engineering challenges** in system design, optimization, and large-scale application development
+▶ Engineer and deliver scalable full-stack web & mobile applications from architecture to production deployment
+▶ Work on Machine Learning and Generative AI models such as GANs and Transformers, focusing on data preprocessing, training, and model optimization
+▶ Build RAG pipelines and AI agents using LangChain and LangGraph for retrieval-augmented and multi-step agentic workflows
+▶ Design high-performance distributed systems focused on scalability, reliability, and clean software architecture
+▶ Work across the entire engineering stack — frontend, backend, cloud infrastructure, and DevOps workflows
+▶ Focused about solving complex engineering challenges in system design, optimization, and large-scale application development
 
 ## 🌐 Connect With Me
 
