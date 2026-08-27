@@ -24,7 +24,7 @@
 
 ## 👨‍💻 About Me
 
-**Full-Stack Software Engineer** | AI integration (RAG, LLMs) & backend engineering | TypeScript · Next.js · Python
+**Full-Stack Software Engineer** | AI integration (RAG, LLMs) & backend systems | TypeScript · Next.js · Python
 
 ▶ Engineer and deliver scalable **full-stack web & mobile applications** from architecture to production deployment<br>
 ▶ Work on Machine Learning and Generative AI models such as GANs and Transformers, focusing on data preprocessing, training, and model optimization<br>
