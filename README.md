@@ -131,9 +131,11 @@
 
 ## 📈 Contribution Graph
 <div align="center">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=Hammad-idrees&show_icons=true&theme=tokyonight&hide_border=true" />
-  <br/>
-  <img width="100%" src="https://streak-stats.demolab.com?user=Hammad-idrees&theme=tokyonight&hide_border=true" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hammad-idrees/Hammad-idrees/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hammad-idrees/Hammad-idrees/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Hammad-idrees/Hammad-idrees/output/github-contribution-grid-snake.svg" />
+  </picture>
 </div>
 ---
 
