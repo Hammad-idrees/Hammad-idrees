@@ -129,11 +129,9 @@
 
 ---
 
-## 📈 Contribution Graph
-<div align="center">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Hammad-idrees&theme=tokyonight&hide_border=true" />
-</div>
-
+## 🕒 Recent Activity
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 ---
 ---
 
