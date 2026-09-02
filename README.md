@@ -131,7 +131,7 @@
 
 ## 📈 Contribution Graph
 <div align="center">
-  <img src="https://ghchart.rshah.org/Hammad-idrees" alt="Hammad-idrees's Github Contribution Chart" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hammad-idrees&theme=tokyonight" />
 </div>
 
 ## 🐍 Contribution Snake
