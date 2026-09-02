@@ -131,9 +131,8 @@
 
 ## 📈 Contribution Graph
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hammad-idrees&theme=github&hide_border=true&area=true" />
+  <img src="https://ghchart.rshah.org/Hammad-idrees" alt="Hammad-idrees's Github Contribution Chart" />
 </div>
----
 
 ## 🐍 Contribution Snake
 
