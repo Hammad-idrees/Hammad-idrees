@@ -131,7 +131,7 @@
 
 ## 📈 Contribution Graph
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Hammad-idrees&theme=tokyo-night&hide_border=true&area=true&area_color=0077b6" />
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=Hammad-idrees&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
