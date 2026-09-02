@@ -131,7 +131,7 @@
 
 ## 📈 Contribution Graph
 <div align="center">
-  <img src="https://grass-graph.moshimo.workers.dev/Hammad-idrees?theme=tokyo-night" />
+  <img width="100%" src="https://github-readme-activity-graph-rho-bice.vercel.app/graph?username=Hammad-idrees&theme=tokyo-night&hide_border=true&area=true&area_color=0077b6" />
 </div>
 
 ---
