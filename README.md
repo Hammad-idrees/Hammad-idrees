@@ -131,8 +131,10 @@
 
 ## 📈 Contribution Graph
 <div align="center">
-  <img src="https://ghchart.rshah.org/Hammad-idrees" alt="Hammad-idrees's Contribution Chart" />
+  <img src="https://grass-graph.moshimo.workers.dev/Hammad-idrees?theme=tokyo-night" />
 </div>
+
+---
 
 ## 🐍 Contribution Snake
 
