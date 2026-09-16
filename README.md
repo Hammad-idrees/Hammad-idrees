@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1A2E,100:1F3A5F&height=170&section=header&text=Hammad%20Idrees&fontSize=50&fontColor=F1F5F9&fontAlignY=42&desc=Full%20Stack%20Developer%20%20%7C%20%20AI%2FML%20%20%7C%20%20AI%20Automations%20%20%7C%20%20DevOps&descSize=17&descColor=A9C1DC&descAlignY=66" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1A2E,100:1F3A5F&height=170&section=header&text=Hammad%20Idrees&fontSize=50&fontColor=F1F5F9&fontAlignY=42&desc=Full%20Stack%20Developer%20%26%20AI%20Engineer&descSize=20&descColor=A9C1DC&descAlignY=66" width="100%" />
 
 <br/>
 
@@ -11,6 +11,10 @@
 </div>
 
 <br/>
+
+<table>
+<tr>
+<td valign="top" width="58%">
 
 ## About
 
@@ -25,6 +29,15 @@ Full Stack Software Engineer at **FAST-NUCES Islamabad**, focused on AI integrat
 - **AI automation:** Business workflows powered by n8n and LLM agents
 - **Cloud and DevOps:** Docker, Kubernetes, CI/CD pipelines and cloud infrastructure
 - **System design:** High performance distributed systems built for scalability and reliability
+
+</td>
+<td valign="middle" width="42%" align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="340" alt="Developer at work"/>
+
+</td>
+</tr>
+</table>
 
 <br/>
 
