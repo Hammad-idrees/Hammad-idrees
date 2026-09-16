@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1A2E,100:1F3A5F&height=170&section=header&text=Hammad%20Idrees&fontSize=50&fontColor=F1F5F9&fontAlignY=42&desc=AI%20Engineer%20and%20Full%20Stack%20Developer&descSize=18&descColor=A9C1DC&descAlignY=66" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B1A2E,100:1F3A5F&height=170&section=header&text=Hammad%20Idrees&fontSize=50&fontColor=F1F5F9&fontAlignY=42&desc=Full%20Stack%20Developer%20%20%7C%20%20AI%2FML%20%20%7C%20%20AI%20Automations%20%20%7C%20%20DevOps&descSize=17&descColor=A9C1DC&descAlignY=66" width="100%" />
 
 <br/>
 
@@ -14,26 +14,17 @@
 
 ## About
 
-AI Engineer and Full Stack Developer based in Islamabad, Pakistan. I build production web applications and AI systems end to end, from architecture and backend services through to deployment.
+Full Stack Software Engineer at **FAST-NUCES Islamabad**, focused on AI integration (RAG, LLMs) and backend systems with TypeScript, Next.js and Python. I build scalable web and mobile applications end to end, from architecture to production deployment.
 
 **What I work on**
 
-- **AI and LLM systems:** RAG pipelines, multi step agents with LangChain and LangGraph, and NLP workflows
 - **Full stack development:** Web and mobile applications with TypeScript, Next.js, React, Node.js and Python
-- **Machine learning:** Data preprocessing, model training and optimization, including Transformers and GANs
+- **AI and LLM systems:** RAG pipelines and multi step agents with LangChain and LangGraph
+- **Generative AI:** GANs and Transformer models, from training to optimization
+- **Machine learning:** Data preprocessing, model training and performance tuning
 - **AI automation:** Business workflows powered by n8n and LLM agents
-- **Cloud and DevOps:** Docker, Kubernetes, CI/CD pipelines and scalable system design
-
-**Currently**
-
-- AI Engineer at **VisionRD**
-- Building AI powered SaaS products
-- Open to full time roles and freelance projects
-
-**Education**
-
-- BS Computer Science (Data Science), Virtual University of Pakistan
-- Full Stack Development Certification, FAST-NUCES Islamabad
+- **Cloud and DevOps:** Docker, Kubernetes, CI/CD pipelines and cloud infrastructure
+- **System design:** High performance distributed systems built for scalability and reliability
 
 <br/>
 
