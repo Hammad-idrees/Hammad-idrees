@@ -68,7 +68,7 @@
 
 ### 🌐 Frontend $ Mobile
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux,bootstrap,vite,vercel,cypress,figma&perline=10" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux,bootstrap,vite,figma&perline=10" />
 </p>
 
 ### ⚙️ Backend & APIs
@@ -83,7 +83,7 @@
 
 ### ☁️ Cloud & DevOps
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,githubactions,jenkins,cloudflare,vercel,netlify,git,github&perline=10" />
+  <img src="https://skillicons.dev/icons?i=aws,docker,githubactions,jenkins,cloudflare,vercel,netlify,git,github&perline=10" />
 </p>
 
 ### 🤖 Machine Learning & AI
