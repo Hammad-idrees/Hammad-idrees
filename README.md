@@ -102,8 +102,4 @@
 
 ---
 
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=Hammad-idrees&color=415A77&style=flat-square&label=Profile+Views" />
-
-</div>
+<div align="center">  <img src="https://komarev.com/ghpvc/?username=Hammad-idrees&color=00d4ff&style=for-the-badge&label=PROFILE+VIEWS" /> <br/><br/> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=130&section=footer" /> </div> 
