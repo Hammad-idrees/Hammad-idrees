@@ -63,7 +63,7 @@
 
 ### 💬 Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,js,ts,cpp,cs,java,kotlin,dart,html,css&perline=10" />
+  <img src="https://skillicons.dev/icons?i=python,js,ts,cpp,cs,kotlin,dart,html,css&perline=10" />
 </p>
 
 ### 🌐 Frontend $ Mobile
@@ -73,7 +73,7 @@
 
 ### ⚙️ Backend & APIs
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask,graphql,nginx,apache&perline=10" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,graphql,nginx,prisma,redis,postman,apache&perline=10" />
 </p>
 
 ### 🗄️ Databases
