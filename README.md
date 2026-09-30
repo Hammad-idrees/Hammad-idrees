@@ -68,7 +68,7 @@
 
 ### 🌐 Frontend $ Mobile
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,flutter,tailwind,redux,bootstrap,vite,threejs,figma&perline=10" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,reactNative,tailwind,redux,bootstrap,vite,figma&perline=10" />
 </p>
 
 ### ⚙️ Backend & APIs
