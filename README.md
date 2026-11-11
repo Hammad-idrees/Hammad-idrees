@@ -26,6 +26,7 @@
 - Build **RAG pipelines and AI agents** using LangChain and LangGraph for retrieval-augmented and multi-step agentic workflows
 - Design **high-performance distributed systems** focused on scalability, reliability, and clean software architecture
 - Work across the entire engineering stack: **frontend, backend, cloud infrastructure, and DevOps workflows**
+- Reverse-engineered a major web platform's data layer and pagination limits to build a fault-tolerant, resumable data pipelinewith adaptive scheduling and incremental change tracking.
 - Focused on solving **complex engineering challenges** in system design, optimization, and large-scale application development
 
 ## Connect With Me
